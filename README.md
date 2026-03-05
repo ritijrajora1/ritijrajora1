@@ -10,7 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ritijrajora1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ritijrajora1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritijrajora1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- Snake Game Repo View -->
+<!-- Pac-Man Animation -->
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ManasGupta123/pacman-readme/main/pacman.svg" alt="Pac-Man animation" />
 </div>
+
