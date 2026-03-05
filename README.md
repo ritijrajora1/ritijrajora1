@@ -9,7 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ritijrajora1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritijrajora1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 import random
 
 print("Welcome to the Number Guessing Game!")
@@ -29,3 +28,7 @@ while guess != number:
         print("Too high! Try again.")
     else:
         print("Congratulations! You guessed the number in", attempts, "attempts.")
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
